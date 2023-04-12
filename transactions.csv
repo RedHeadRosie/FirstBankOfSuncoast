@@ -1,0 +1,7 @@
+TypeOfAccount,TypeOfAction,Amount
+savings,deposit,10
+savings,deposit,15
+savings,deposit,3
+savings,withdraw,5
+checking,deposit,100
+savings,withdraw,4
